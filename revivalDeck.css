@@ -1,9 +1,9 @@
 /* to hide the icons */
-footer.tweet-footer ul{
+footer.tweet-footer ul.tweet-actions{
     visibility: hidden;
     margin-left:40%;
 }
-footer.tweet-footer:hover ul{
+footer.tweet-footer:hover ul.tweet-actions{
     visibility: visible;
 }
 

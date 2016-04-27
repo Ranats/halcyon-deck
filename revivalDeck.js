@@ -19,5 +19,9 @@ for (var i=0; i<details.length; i++){
 
 }
 
+//[].forEach(details,function(item){
+//
+//});
+
 console.log(details);
 console.log(details.length);
